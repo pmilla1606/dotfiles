@@ -1,0 +1,24 @@
+#My Scripts
+export PATH=$PATH:.
+#export PATH=$PATH:~/.dotfiles/scripts
+
+#Brew
+export PATH=/usr/local/sbin:$PATH
+export PATH=/usr/local/bin:$PATH
+
+# GO
+#export PATH=$PATH:/usr/local/opt/go/libexec/bin
+
+# The next line updates PATH for the Google Cloud SDK.
+#source "/Users/$(whoami)/Downloads/google-cloud-sdk/path.zsh.inc"
+
+# The next line enables shell command completion for gcloud.
+#source "/Users/$(whoami)/Downloads/google-cloud-sdk/completion.zsh.inc"
+
+export PATH="/opt/apache-maven-3.6.1/bin:$PATH"
+export PATH="/opt/voltdb-community-9.0/bin:$PATH"
+export PATH="/opt/jdk-11.0.2.jdk/Contents/Home/bin:$PATH"
+export JAVA_HOME="/opt/jdk-11.0.2.jdk/Contents/Home"
+
+export PATH="$PATH:/Users/peter.margaritoff/Library/Python/3.7/bin"
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
