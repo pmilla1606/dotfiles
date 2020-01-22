@@ -20,5 +20,5 @@ export PATH="/opt/voltdb-community-9.0/bin:$PATH"
 export PATH="/opt/jdk-11.0.2.jdk/Contents/Home/bin:$PATH"
 export JAVA_HOME="/opt/jdk-11.0.2.jdk/Contents/Home"
 
-export PATH="$PATH:/Users/peter.margaritoff/Library/Python/3.7/bin"
+# export PATH="$PATH:/Users/peter.margaritoff/Library/Python/3.7/bin"
 export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
